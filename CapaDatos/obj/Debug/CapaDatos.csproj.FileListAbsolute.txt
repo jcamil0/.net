@@ -1,0 +1,27 @@
+D:\WorkSpaceAD\YOUTUBE\021_FUNCIONALIDAD SISTEMA VOTACION WEB\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\021_FUNCIONALIDAD SISTEMA VOTACION WEB\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\021_FUNCIONALIDAD SISTEMA VOTACION WEB\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\021_FUNCIONALIDAD SISTEMA VOTACION WEB\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\021_FUNCIONALIDAD SISTEMA VOTACION WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\021_FUNCIONALIDAD SISTEMA VOTACION WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\021_FUNCIONALIDAD SISTEMA VOTACION WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\021_FUNCIONALIDAD SISTEMA VOTACION WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\021_FUNCIONALIDAD SISTEMA VOTACION WEB\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\USER\Desktop\CLASES\programa\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USER\Desktop\CLASES\programa\ProyectoWeb\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Desktop\CLASES\programa\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\USER\Desktop\CLASES\programa\ProyectoWeb\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\USER\Desktop\CLASES\programa\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CLASES\programa\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CLASES\programa\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\USER\Desktop\CLASES\programa\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USER\Desktop\CLASES\programa\ProyectoWeb\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\USER\Desktop\CLASES\Sistema de votos\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\USER\Desktop\CLASES\Sistema de votos\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\USER\Desktop\CLASES\Sistema de votos\CapaDatos\bin\Debug\CapaModelo.dll
+C:\Users\USER\Desktop\CLASES\Sistema de votos\CapaDatos\bin\Debug\CapaModelo.pdb
+C:\Users\USER\Desktop\CLASES\Sistema de votos\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\CLASES\Sistema de votos\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\CLASES\Sistema de votos\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\USER\Desktop\CLASES\Sistema de votos\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\USER\Desktop\CLASES\Sistema de votos\CapaDatos\obj\Debug\CapaDatos.pdb
